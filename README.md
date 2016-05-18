@@ -4,6 +4,11 @@ based on (http://www.schempy.com/2016/01/19/angular2_webpack_typescript/)
 @angular.RC-01
 
 ==tags==
+===02-store-reducer-counter===
+
+===01-ngrx-hrt-webp===
+HTML 5 routing doesn't let me enter path in url bar so this uses hashtag 
+
 ===00-minimal-tooling===
 * weback works
 * npm start works (webpack-dev-server --host 0.0.0.0 --port 6100)

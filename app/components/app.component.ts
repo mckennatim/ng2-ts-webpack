@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 			<nav>
 			  <a linkTo="/help">Help</a>
 			  <a linkTo="/about">About</a>
+			  <a linkTo="/cnt">Count</a>
 			</nav>
 			<route-view></route-view>
     `,
